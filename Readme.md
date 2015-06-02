@@ -1,6 +1,6 @@
 ## How elegant a common point is
 ###中文
-- &#160; &#160; &#160; &#160;我們有時會發現, 我們所學的某些知識能找到其在生活中相通的地方. 這個相通的地方, 我稱其為一個 **"相通點"**. 這些相通點, 可以讓我們學會如何在生活中找到一些現象, 去啟發我們解決問題的思路. 慢慢地, 當你發掘越來越多相通點的時候, 你將會發現它們將是多麼的優雅. 為了更好地闡述我所認為的**相通點**, 我舉出一個例子:
+- &#160; &#160; &#160; &#160;我們有時會發現, 我們所學的某些知識能找到其在生活中相通的地方. 這個相通的地方, 我稱其為一個 **"相通點"** (即問題的解決與某生活現象聯繫到同一個點上). 這些相通點, 可以讓我們學會如何在生活中找到一些現象, 去啟發我們解決問題的思路. 慢慢地, 當你發掘越來越多相通點的時候, 你將會發現它們將是多麼的優雅. 為了更好地闡述我所認為的**相通點**, 我舉出一個例子:
 
 #####例子一
 - &#160; &#160; &#160; &#160;現象: 假設有一篇**文章**和一張**照片**, 它們都是用來描述某女士的外貌特徵, 如**頭髮**, **身高**, **服飾顏色**等, 那麼你會發現短暫的一瞬間後, 對於看圖片的人來說, 他們對該女士印象遠比看文章的人要深刻. 
@@ -9,7 +9,7 @@
 
 ====
 ###English
-- Sometimes we find that what we have learnt will find their 'place' in our daily life. The place is called **'a common point'** by me. These common points can help us to learn how to solve problems with phenomenons in our daily life. Gradually, you will find how elegant they are after you have found so many these points. To make it understood, I would like to give you an example:
+- Sometimes we find that what we have learnt will find their 'place' in our daily life. The place is called **'a common point'** by me. That means a solution to a problem and a phenomenon in our daily life have crossed at a same point.  These common points can help us to learn how to solve problems with phenomenons in our daily life. Gradually, you will find how elegant they are after you have found so many these points. To make it understood, I would like to give you an example:
 
 #####Example1
 - Phenomenon: Assume that there are a **text** and a **photo**, both to describe what a lady looks like. After a short time, you will have a conclusion that the lady is more impressive for people, who have watched the photo, than others, who have watched the text.
